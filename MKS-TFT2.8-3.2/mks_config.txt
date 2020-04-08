@@ -87,10 +87,10 @@ It will auto heat up if the current temp doesn't reach the target.
 
 #the coordinates of 5 point on manual leveling
 >cfg_point1:50,50
->cfg_point2:250,50
->cfg_point3:250,250
->cfg_point4:50,250
->cfg_point5:130,130
+>cfg_point2:350,50
+>cfg_point3:350,350
+>cfg_point4:50,350
+>cfg_point5:200,200
 
 #the travel speed of leveling(mm/min)
 >cfg_leveling_z_speed:1500
